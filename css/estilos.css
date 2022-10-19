@@ -9,7 +9,7 @@ body
 }
 #container
 {
-    width: 70%;
+    width: 80%;
     padding: 1em;
     text-align: left;
     border: 5px solid rgb(140, 10, 247);
@@ -18,5 +18,5 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 30px;
 }
