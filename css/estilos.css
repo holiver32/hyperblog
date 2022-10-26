@@ -33,3 +33,21 @@ body
 {
     font-size: 30px;
 }
+
+
+
+
+
+
+
+
+
+
+
+#footer 
+{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+}
