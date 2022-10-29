@@ -2,7 +2,14 @@ Esta es la historia de Holiver Hurtado
 
 Holiver tiene 35 años y nacio en Venezuela, viviendo en todo el mundo 
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 1
+
+Master 1
+
+>>>>>>> 2024768 (exp1)
 Hoy hablaremos de su historia.
 
 En camara parece alto pero es mas alto en persona.
